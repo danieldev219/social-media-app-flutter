@@ -62,7 +62,7 @@ Rippl is a social media application developed using Flutter and managed with the
 2. Clone this repository:
 
     ```bash
-    git clone https://github.com/suptechie/social-media-app-flutter.git
+    git clone https://github.com/rudyapollo/social-media-app-flutter.git
     ```
 
 3. Navigate to the project directory:
@@ -102,13 +102,13 @@ Rippl is a social media application developed using Flutter and managed with the
 
 - The app is currently in development, and certain features may be incomplete.
 - Limited platform support: Android devices only.
-- We are also open to bug reports. If you would like to report a bug, please feel free to open an [issue](https://github.com/suptechie/social-media-app-flutter/issues). We will try to fix the bug as soon as possible.
+- We are also open to bug reports. If you would like to report a bug, please feel free to open an [issue](https://github.com/rudyapollo/social-media-app-flutter/issues). We will try to fix the bug as soon as possible.
 
 ## Future Roadmap
 
 - iOS support.
 - Enhanced features and user interface improvements.
-- We are also open to feature requests. If you would like to request a feature, please feel free to open an [issue](https://github.com/suptechie/social-media-app-flutter/issues). We will try to implement the feature as soon as possible.
+- We are also open to feature requests. If you would like to request a feature, please feel free to open an [issue](https://github.com/rudyapollo/social-media-app-flutter/issues). We will try to implement the feature as soon as possible.
 
 ## Download
 
